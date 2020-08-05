@@ -20,25 +20,3 @@ All employees (hereafter collectively referred to as "Employees"/"You"), agents,
 If any of these policies, undertakings and guidelines are held invalid or unenforceable by any court of competent jurisdiction, all other policies, undertakings and guidelines detailed will remain in full force and effect. Any of these policies, undertakings and guidelines held invalid or unenforceable or in part or degree will remain in full force and effect to the extent not held invalid or unenforceable.
 
 Executive Team refers to the members of the senior management and includes the Chairman, CEO, COO, CFO and BU Heads.
-
-
-## **List of Policies**
-
-1.  [Code of Business Conduct and Ethics](Code-of-Business-Conduct-and-Ethics.md)
-2.  [End-User Computing Policy](End-User-Computing-Policy.md)
-3.  [Research Ethical Guidelines](Research-Ethical-Guidelines.md)
-4.  [Anti-Sexual Harassment Policy](Anti-Sexual-Harassment-Policy.md)
-
-## **List of Declarations/Undertakings**
-
-1.  [Declaration regarding Trading Account(s)](Declaration-Trading-Account.md)
-2.  [Non-Tampering Undertaking](Non-Tampering-Undertaking.md)
-3.  [Acknowledgement of Punitive Action](Acknowledgement-Punitive-Action.md)
-4.  [Compliance of Company Policies Undertaking](Compliance-Company-Policies-Undertaking.md)
-
-## **List of Annexures**
-
-1.  [Annexure A](Annexure-A.md)
-2.  [Annexure B](Annexure-B.md)
-3.  [Annexure C](Annexure-C.md)
-4.  [Annexure D](Annexure-D.md)

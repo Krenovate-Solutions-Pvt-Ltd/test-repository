@@ -14,10 +14,3 @@ The purpose of having training manuals is:
 *   To provide *step-by-step instructions* for employees to reach their respective goals/requirements quicker.
 *   To ensure *continuity* of operations when new employees are hired. 
 *   To help our employees to get *acclimatised* with the *processes and procedures* quickly to start their functional role in a proper and easy manner.
-
-
-Below you can find few Training Manuals available to help your journey with Krenovate:
-
-*   [Daily Apps Manual](Daily-Apps/Introduction.md)
-*   [Employee Policies](Employee-Policies/Introduction.md)
-
