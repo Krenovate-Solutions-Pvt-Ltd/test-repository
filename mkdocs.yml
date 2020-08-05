@@ -1,9 +1,9 @@
 site_name: Training Manual
 nav:
   - Employee Policies:
-    - Introduction: 'Employee-Policies\Introduction.md'
-    - About Krenovate: 'Employee-Policies\About-krenovate.md'
-  - Daily Work Apps: 'Daily-work-apps\Introduction.md' 
+    - Introduction: 'Employee-Policies/Introduction.md'
+    - About Krenovate: 'Employee-Policies/About-krenovate.md'
+  - Daily Work Apps: 'Daily-work-apps/Introduction.md' 
 theme:
   name: material
   features:
